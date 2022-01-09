@@ -72,7 +72,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url('../../../../starter-code/Module-2/assets/images/Me.jpg');
+    background-color: #024e76;
     height: 600px;
     background-size: cover;
     background-position: center;
